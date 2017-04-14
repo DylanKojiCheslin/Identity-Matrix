@@ -4,9 +4,6 @@ Identity matrices drawing in JavaScript
 Identity matrices are a thing. This thing:
 https://en.wikipedia.org/wiki/Identity_matrix
 
-going to make a function that draws them, cause I'm stuck at the air port and
-quite board.
-
 some examples
 
 
